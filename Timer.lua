@@ -12,6 +12,8 @@ function object.new(Name)
 
     --type shit
 
+    --hello
+
     return self
 end
 
